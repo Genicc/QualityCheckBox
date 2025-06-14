@@ -1,7 +1,7 @@
 # **CAPSTONE PROJECT**
 
 ## **SISTEM OTOMASI QUALITY CONTROL PADA KEMASAN PRODUK DENGAN EMBEDDED AI**
-## Deskripsi Proyek
+### Deskripsi Proyek
 
 Proyek **Sistem Otomasi Quality Control pada Kemasan Produk dengan Embedded AI** ini bertujuan untuk meningkatkan efisiensi dan akurasi pemeriksaan kualitas kemasan produk berbentuk kotak di jalur produksi secara otomatis. 
 
